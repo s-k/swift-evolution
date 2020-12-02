@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="43 -10 872 226" width="872" height="226">
+  <defs>
+    <font-face font-family="Helvetica Neue" font-size="16" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+      <font-face-src>
+        <font-face-name name="HelveticaNeue"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.17.4\n2020-12-02 00:37:20 +0000</metadata>
+  <g id="Canvas_1" stroke="none" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" fill="none">
+    <title>Canvas 1</title>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/async-await/proposals/nnnn-async-await.md">
+          <path d="M 401.5 -9.5 L 521 -9.5 C 526.52285 -9.5 531 -5.0228475 531 .5 L 531 31.5 C 531 37.022847 526.52285 41.5 521 41.5 L 401.5 41.5 C 395.97715 41.5 391.5 37.022847 391.5 31.5 L 391.5 .5 C 391.5 -5.0228475 395.97715 -9.5 401.5 -9.5 Z" fill="white"/>
+          <path d="M 401.5 -9.5 L 521 -9.5 C 526.52285 -9.5 531 -5.0228475 531 .5 L 531 31.5 C 531 37.022847 526.52285 41.5 521 41.5 L 401.5 41.5 C 395.97715 41.5 391.5 37.022847 391.5 31.5 L 391.5 .5 C 391.5 -5.0228475 395.97715 -9.5 401.5 -9.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(396.5 6.776001)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="21.206" y="15">Async/await</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_3">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/structured-concurrency/proposals/nnnn-structured-concurrency.md">
+          <path d="M 626.25 77.5 L 745.75 77.5 C 751.27285 77.5 755.75 81.97715 755.75 87.5 L 755.75 118.5 C 755.75 124.02285 751.27285 128.5 745.75 128.5 L 626.25 128.5 C 620.72715 128.5 616.25 124.02285 616.25 118.5 L 616.25 87.5 C 616.25 81.97715 620.72715 77.5 626.25 77.5 Z" fill="white"/>
+          <path d="M 626.25 77.5 L 745.75 77.5 C 751.27285 77.5 755.75 81.97715 755.75 87.5 L 755.75 118.5 C 755.75 124.02285 751.27285 128.5 745.75 128.5 L 626.25 128.5 C 620.72715 128.5 616.25 124.02285 616.25 118.5 L 616.25 87.5 C 616.25 81.97715 620.72715 77.5 626.25 77.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(621.25 84.552)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="27.11" y="15">Structured </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="18.966" y="33.448">Concurrency</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_4">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/actors/proposals/nnnn-actors.md">
+          <path d="M 212.25 77.5 L 331.75 77.5 C 337.27285 77.5 341.75 81.97715 341.75 87.5 L 341.75 118.5 C 341.75 124.02285 337.27285 128.5 331.75 128.5 L 212.25 128.5 C 206.72715 128.5 202.25 124.02285 202.25 118.5 L 202.25 87.5 C 202.25 81.97715 206.72715 77.5 212.25 77.5 Z" fill="white"/>
+          <path d="M 212.25 77.5 L 331.75 77.5 C 337.27285 77.5 341.75 81.97715 341.75 87.5 L 341.75 118.5 C 341.75 124.02285 337.27285 128.5 331.75 128.5 L 212.25 128.5 C 206.72715 128.5 202.25 124.02285 202.25 118.5 L 202.25 87.5 C 202.25 81.97715 206.72715 77.5 212.25 77.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(207.25 93.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="41.494" y="15">Actors</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_5">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/actors/proposals/nnnn-actors.md#global-actors">
+          <path d="M 212.25 164.5 L 331.75 164.5 C 337.27285 164.5 341.75 168.97715 341.75 174.5 L 341.75 205.5 C 341.75 211.02285 337.27285 215.5 331.75 215.5 L 212.25 215.5 C 206.72715 215.5 202.25 211.02285 202.25 205.5 L 202.25 174.5 C 202.25 168.97715 206.72715 164.5 212.25 164.5 Z" fill="white"/>
+          <path d="M 212.25 164.5 L 331.75 164.5 C 337.27285 164.5 341.75 168.97715 341.75 174.5 L 341.75 205.5 C 341.75 211.02285 337.27285 215.5 331.75 215.5 L 212.25 215.5 C 206.72715 215.5 202.25 211.02285 202.25 205.5 L 202.25 174.5 C 202.25 168.97715 206.72715 164.5 212.25 164.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(207.25 180.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="16.014" y="15">Global Actors</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 54.25 164.5 L 173.75 164.5 C 179.27285 164.5 183.75 168.97715 183.75 174.5 L 183.75 205.5 C 183.75 211.02285 179.27285 215.5 173.75 215.5 L 54.25 215.5 C 48.72715 215.5 44.25 211.02285 44.25 205.5 L 44.25 174.5 C 44.25 168.97715 48.72715 164.5 54.25 164.5 Z" fill="white"/>
+        <path d="M 54.25 164.5 L 173.75 164.5 C 179.27285 164.5 183.75 168.97715 183.75 174.5 L 183.75 205.5 C 183.75 211.02285 179.27285 215.5 173.75 215.5 L 54.25 215.5 C 48.72715 215.5 44.25 211.02285 44.25 205.5 L 44.25 174.5 C 44.25 168.97715 48.72715 164.5 54.25 164.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(49.25 171.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="13.774" y="15">Asynchronous </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="32.75" y="33.448">Handlers</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/concurrency-objc/proposals/NNNN-concurrency-objc.md">
+          <path d="M 370.25 164.5 L 489.75 164.5 C 495.27285 164.5 499.75 168.97715 499.75 174.5 L 499.75 205.5 C 499.75 211.02285 495.27285 215.5 489.75 215.5 L 370.25 215.5 C 364.72715 215.5 360.25 211.02285 360.25 205.5 L 360.25 174.5 C 360.25 168.97715 364.72715 164.5 370.25 164.5 Z" fill="white"/>
+          <path d="M 370.25 164.5 L 489.75 164.5 C 495.27285 164.5 499.75 168.97715 499.75 174.5 L 499.75 205.5 C 499.75 211.02285 495.27285 215.5 489.75 215.5 L 370.25 215.5 C 364.72715 215.5 360.25 211.02285 360.25 205.5 L 360.25 174.5 C 360.25 168.97715 364.72715 164.5 370.25 164.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(365.25 171.552)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="22.078" y="15">Objective-C </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="11.71" y="33.448">Interoperability</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_8">
+        <a xl:href="https://github.com/parkera/swift-evolution/blob/asyncsequence/proposals/NNNN-asyncsequence.md">
+          <path d="M 784.25 164.5 L 903.75 164.5 C 909.2728 164.5 913.75 168.97715 913.75 174.5 L 913.75 205.5 C 913.75 211.02285 909.2728 215.5 903.75 215.5 L 784.25 215.5 C 778.72715 215.5 774.25 211.02285 774.25 205.5 L 774.25 174.5 C 774.25 168.97715 778.72715 164.5 784.25 164.5 Z" fill="white"/>
+          <path d="M 784.25 164.5 L 903.75 164.5 C 909.2728 164.5 913.75 168.97715 913.75 174.5 L 913.75 205.5 C 913.75 211.02285 909.2728 215.5 903.75 215.5 L 784.25 215.5 C 778.72715 215.5 774.25 211.02285 774.25 205.5 L 774.25 174.5 C 774.25 168.97715 778.72715 164.5 784.25 164.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(779.25 180.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x=".59" y="15">Async Sequences</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_9">
+        <a xl:href="https://forums.swift.org/t/pitch-rethrowing-protocol-conformances/42373">
+          <path d="M 784.25 77.5 L 903.75 77.5 C 909.2728 77.5 913.75 81.97715 913.75 87.5 L 913.75 118.5 C 913.75 124.02285 909.2728 128.5 903.75 128.5 L 784.25 128.5 C 778.72715 128.5 774.25 124.02285 774.25 118.5 L 774.25 87.5 C 774.25 81.97715 778.72715 77.5 784.25 77.5 Z" fill="white"/>
+          <path d="M 784.25 77.5 L 903.75 77.5 C 909.2728 77.5 913.75 81.97715 913.75 87.5 L 913.75 118.5 C 913.75 124.02285 909.2728 128.5 903.75 128.5 L 784.25 128.5 C 778.72715 128.5 774.25 124.02285 774.25 118.5 L 774.25 87.5 C 774.25 81.97715 778.72715 77.5 784.25 77.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(779.25 84.552)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="24.014" y="15">Rethrowing </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="12.15" y="33.448">Conformances</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Graphic_10">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/structured-concurrency/proposals/nnnn-structured-concurrency.md#child-tasks-with-taskgroups">
+          <path d="M 626.25 164.5 L 745.75 164.5 C 751.27285 164.5 755.75 168.97715 755.75 174.5 L 755.75 205.5 C 755.75 211.02285 751.27285 215.5 745.75 215.5 L 626.25 215.5 C 620.72715 215.5 616.25 211.02285 616.25 205.5 L 616.25 174.5 C 616.25 168.97715 620.72715 164.5 626.25 164.5 Z" fill="white"/>
+          <path d="M 626.25 164.5 L 745.75 164.5 C 751.27285 164.5 755.75 168.97715 755.75 174.5 L 755.75 205.5 C 755.75 211.02285 751.27285 215.5 745.75 215.5 L 626.25 215.5 C 620.72715 215.5 616.25 211.02285 616.25 205.5 L 616.25 174.5 C 616.25 168.97715 620.72715 164.5 626.25 164.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(621.25 180.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="29.934" y="15">Task APIs</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_11">
+        <line x1="456.67026" y1="41.5" x2="436.32976" y2="154.7559" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_12">
+        <line x1="524.98845" y1="40.67295" x2="613.0291" y2="74.75321" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="405.78017" y1="41.5" x2="336.46488" y2="73.36489" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_14">
+        <line x1="272" y1="128.5" x2="272" y2="154.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_15">
+        <line x1="225.68966" y1="128.5" x2="168.98256" y2="159.7248" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_16">
+        <line x1="686" y1="128.5" x2="686" y2="154.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_17">
+        <line x1="844" y1="128.5" x2="844" y2="154.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <line x1="732.31034" y1="128.5" x2="789.0174" y2="159.7248" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_20">
+        <line x1="318.31034" y1="128.5" x2="375.01744" y2="159.7248" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_21">
+        <a xl:href="https://github.com/DougGregor/swift-evolution/blob/async-await/proposals/nnnn-async-await.md#reasync">
+          <path d="M 468.25 77.5 L 587.75 77.5 C 593.27285 77.5 597.75 81.97715 597.75 87.5 L 597.75 118.5 C 597.75 124.02285 593.27285 128.5 587.75 128.5 L 468.25 128.5 C 462.72715 128.5 458.25 124.02285 458.25 118.5 L 458.25 87.5 C 458.25 81.97715 462.72715 77.5 468.25 77.5 Z" fill="white"/>
+          <path d="M 468.25 77.5 L 587.75 77.5 C 593.27285 77.5 597.75 81.97715 597.75 87.5 L 597.75 118.5 C 597.75 124.02285 593.27285 128.5 587.75 128.5 L 468.25 128.5 C 462.72715 128.5 458.25 124.02285 458.25 118.5 L 458.25 87.5 C 458.25 81.97715 462.72715 77.5 468.25 77.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(463.25 93.776)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" font-weight="400" fill="black" x="36.894" y="15">reasync</tspan>
+          </text>
+        </a>
+      </g>
+      <g id="Line_22">
+        <line x1="480.81466" y1="41.5" x2="502.409" y2="69.64548" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

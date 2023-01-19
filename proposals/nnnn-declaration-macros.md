@@ -7,6 +7,15 @@
 * Implementation: Nothing yet
 * Review:
 
+
+
+## WARNING: This proposal is not current
+
+This proposal has been split into two separate proposals:
+
+- [Freestanding macros](https://github.com/DougGregor/swift-evolution/blob/freestanding-macros/proposals/nnnn-freestanding-macros.md#freestanding-macros) covers the "freestanding" case, generalizing the `#` syntax to also introduce declarations and code items.
+- [Attached macros](https://github.com/DougGregor/swift-evolution/blob/attached-macros/proposals/nnnn-attached-macros.md) covers the "attached" case, using the custom attribute syntax to introduce peers/members/etc.
+
 ## Introduction
 
 Declaration macros provide a way to extend Swift by creating new declarations based on arbitrary syntactic transformations on their arguments. They make it possible to extend Swift in ways that were only previously possible by introducing new language features, helping developers build more expressive libraries and eliminate extraneous boilerplate.
